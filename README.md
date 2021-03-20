@@ -11,5 +11,3 @@ Scores are updated live on all devices.
 2. Log in on '/login'
 3. Edit scores
 
-### Screenshot
-![leaderboard](https://i.imgur.com/Xi9FQEG.png)
